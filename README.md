@@ -28,11 +28,11 @@ You need to open another terminal and try `nc localhost 16384` to join the chat.
   server. 
 
 + You can send your private messages to another user using `/p`.
-  1. Send message with start '/p' and then type msg that you want to send to specific user
-    ex. /p Hi! How are you? 
-  2. It will ask you who do you want to send the msg and you want to type the nickname
-    ex. Enter nickname who you want to send msg : Jacob
-  3. Finally, it will send the private msg to the user you typed! How fun!
+  1. Send message with start '/p' and then type msg that you want to send to specific user . 
+    ex. /p Hi! How are you?   
+  2. It will ask you who do you want to send the msg and you want to type the nickname . 
+    ex. Enter nickname who you want to send msg : Jacob . 
+  3. Finally, it will send the private msg to the user you typed! How fun!  
 
 ## Demo
 
