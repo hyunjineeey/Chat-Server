@@ -83,4 +83,4 @@ let chat_server _ (inp,outp) =
   let _ = handle_login nick (inp,outp) in
   let rec main_loop () =
     Lwt_io.read_line inp >>= handle_input nick inp outp >>= main_loop in
-  Lwt.catch main_loop (fun e -> handle_error e !nick inp outp)
+  Lwt.catch main_loop (fun e -> handle_error e !nick inp outp) 
