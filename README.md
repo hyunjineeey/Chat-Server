@@ -36,4 +36,4 @@ You need to open another terminal and try `nc localhost 16384` to join the chat.
 
 ## Demo
 
-If you want to see quick demo for this project, watch this : https://youtu.be/MrDSNNTfhzs
+If you want to see quick demo for this project, watch this : https://youtu.be/8Csnp6ynyqc
