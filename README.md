@@ -12,7 +12,7 @@ If you build and run it using:
 
 It will listen for and accept network connections, but won't do anything with the user's input, or write anything at all.
 
-You need to open another terminal and try `nc localhost 16384`.
+You need to open another terminal and try `nc localhost 16384` to join the chat.
 
 
 ## How to "fun" chat?
