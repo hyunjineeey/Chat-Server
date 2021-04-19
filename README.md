@@ -44,4 +44,4 @@ This is a chat program that you can send a message to someone.
 
 ## Demo
 
-If you want to see quick demo for this project, watch this : https://youtu.be/8Csnp6ynyqc
+If you want to see a quick demo for this project, watch this: https://youtu.be/8Csnp6ynyqc
